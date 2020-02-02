@@ -1,6 +1,6 @@
 - javascript 
   *es6
+  * framework js
 -interview
 -vlog
--learn react
 - learn angular
