@@ -1,2 +1,3 @@
 vq resolusi
-- make 1 website every week
+- make 1 front end website every week
+- learn sql
