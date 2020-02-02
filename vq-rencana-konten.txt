@@ -3,4 +3,6 @@
   * framework js
 -interview
 -vlog
+- python
+-learn react
 - learn angular
