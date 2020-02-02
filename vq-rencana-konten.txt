@@ -1,5 +1,6 @@
 - javascript 
   *es6
 -interview
-- fundamental data structure
 -vlog
+-learn react
+- learn angular
