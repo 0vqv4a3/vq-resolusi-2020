@@ -1,3 +1,4 @@
 vq resolusi
 - make 1 front end website every week
-- learn sql
+- learn asyncronus js
+- learn oop
