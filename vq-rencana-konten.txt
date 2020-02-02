@@ -1,3 +1,4 @@
-- javascript
+- javascript 
+  *es6
 -interview
 -vlog
